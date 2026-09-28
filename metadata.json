@@ -1,0 +1,6 @@
+{
+  "name": "CampusForge - Student Career & Skill Platform",
+  "description": "An all-in-one career platform for college students: discover internships, learn in-demand technical skills, analyze skill gaps, attend hackathons, build resumes, and track career progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
